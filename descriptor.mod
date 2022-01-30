@@ -8,5 +8,5 @@ tags={
 	"Utilities"
 }
 name="PlentifulTraditions + ExpandedStellarisTraditions Minipatch"
-supported_version="2.7.2"
+supported_version="3.2.2"
 remote_file_id="2229073590"
